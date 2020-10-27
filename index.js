@@ -47,4 +47,3 @@ function determinePrecedence(semver1, semver2) {
 
 
 module.exports = determinePrecedence;
-// export default determinePrecedence
